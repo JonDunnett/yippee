@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Yippee</title>
+	<meta charset="utf-8">
+    <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <style>
+    	#content {
+    		width: 500px;
+    		margin: auto;
+    	}
+    	#query {
+    		width: 500px;
+    	}
+    	#srch {
+    		width: 100px;
+    		margin-left: 200px;
+    	}
+    	p {
+    		font-size: 10px;
+    		width: 175px;
+    		margin-left: 170px;
+    	}
+
+    </style>
+</head>
+<body>
+<div id="content">
+	<input type="text" id="query"><br>
+	<input type="button" value="Search" id="srch">
+	<p>*Search outsourced to Google</p>
+</div>
+	
+	<script type="text/javascript">
+		$("#srch").click(haha);
+
+		function haha() {
+			var search = $("#query").val();
+			location.href = "https://www.google.com/search?q=" + search;
+		}	
+	</script>
+</body>
+</html>
