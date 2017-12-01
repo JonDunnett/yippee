@@ -1,0 +1,62 @@
+<DOCTYPE html>
+<html>
+
+<head>
+	<title>login</title>
+	<meta charset="utf-8">
+	<style>
+		body {
+			background-image: url("img/login.jpg");
+		}
+		div {
+			z-index: -1;
+			width: 300px;
+			height: 275px;
+			border: 1px solid black;
+			border-radius: 10px;
+			margin: auto;
+			margin-top: 10%;
+			background-color: #AAF;
+			font-style: italic;
+			animation-name: fadein;
+			animation-duration: 2s;
+			animation-delay: 0s;
+		}
+		form {
+			width: 250px;
+			margin: auto;
+		}
+		h1 {
+			text-align: center;
+		}
+		#usrname, #psswd, #sub {
+			width: 250px;
+			padding: 10px;
+		}
+		#sub {
+			margin-top: 5px;
+		}
+
+		@keyframes fadein {
+			from { opacity: 0; z-index:2;}
+			60%  { opacity: 0; }
+			to   { opacity: 1; }
+		}
+	</style>
+</head>
+
+<body>
+
+	<div>
+		<h1>FotoFan</h1>
+		<form method="POST" action="login.php">
+		username:
+		<input type="text" id="usrname">
+		password:
+		<input type="password" id="psswd">
+		<input type="submit" value="login" id="sub">
+		</form>
+	</div>
+
+</body>
+</html>
