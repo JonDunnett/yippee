@@ -1,5 +1,4 @@
 <?php
-
 class  Photo {
 	public $loc  = "";
 	public $path = "";
@@ -8,10 +7,4 @@ class  Photo {
 	public $count = "";
 	public $state = "";
 }
-
-
-
-
-
-
 ?>

@@ -3,12 +3,16 @@
 $usr = $_POST["usrname"];
 $psw = $_POST["psswd"];
 
-if ($usr == "bob" && $psw == "bill") {
-	header("https://www.google.com/");
+if ($usr == "joe" && $psw == "joe123") {
+	setcookie("username","joe",time()+60*60*24*30,"/","cs.wheatoncollege.edu");
+	header("FotoFan.html");
+} else if ($usr == "jane" && $psw == "jane999"){
+	setcookie("username", "jane",time()+60*60*24*30,"/","cs.wheatoncollege.edu");
+	header("FotoFan.html");
 } else {
-	header("https://www.yahoo.com/");
+	header("login.html");
 }
 
-header("yippee.html");
+
 
 ?>
