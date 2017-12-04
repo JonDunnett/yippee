@@ -1,5 +1,5 @@
 body {
-	background-image: url("img/login.jpg");
+	background-image: url("../img/login.jpg");
 }
 div {
 	z-index: -1;
