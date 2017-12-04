@@ -64,7 +64,13 @@
 	</div>
 
 	<script> 	
+	var ABSOLUTELY_NOTHING;
+	$.get("photos.php",ABSOLUTELY_NOTHING,process_data, "json");
 	
+
+	function process_data (response) {
+		
+	}
 
 	function setCookie (name, value, numDays) {
 	    var date = new Date();
