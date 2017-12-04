@@ -1,0 +1,105 @@
+#content {
+    width: 500px;
+    margin: auto;
+    margin-top: 15%;
+}
+#query {
+    width: 500px;
+	position: relative;
+	animation-name: textbox;
+	animation-duration: 1s;
+}
+#srch {
+    width: 100px;
+    margin-left: 200px;
+    animation-name: other;
+    animation-duration: 1.5s;
+}
+#options{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;        
+}
+img:hover {
+    animation-name: rotation;
+    animation-duration: 0.5s;
+}
+#menu {
+    position: fixed;
+    top: 10px;
+    bottom: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    animation-name: rotation;
+    animation-duration: 0.5s;
+}
+p.note {
+    font-size: 10px;
+	width: 500px;
+    text-align: center;
+	animation-name: other;
+	animation-duration: 1.5s;
+}
+p.label {
+	background-color: #AAA;
+    color: white;
+    position: fixed;
+    padding: 2px;
+    border-radius: 10px;
+}
+#m {
+    top: -2px;
+    left: 45px;
+}
+#f {
+    right: 47px;
+    bottom: -2px;
+}
+h1 {
+    width: 500px;
+	font-style: 'Lato', sans-serif;
+	font-size: 50pt;
+	text-align: center;
+	position: relative;
+	animation-name: title;
+	animation-duration: 1s; 
+}
+.r {
+	display: inline;
+	color: red;
+}
+.b {
+    display: inline;
+	color: blue;
+}
+.g {
+    display: inline;
+    color: green;
+}
+.y {
+	display: inline;
+	color: yellow;
+}
+@keyframes rotation {
+	from {transform: rotate(0deg);}
+	50%  {transform: rotate(180deg);}
+	to   {transform: rotate(360deg);}
+}
+@keyframes title {
+	from { left: -750px; }
+	90%  { left: 10px; }
+	100% { left: 0px; }
+}
+@keyframes textbox {
+    from { right: -750px; }
+	90%  { right: 10px; }
+	100% { right:  0px; }
+}
+@keyframes other {
+	from {margin-top: 1000px;}
+	to   {margin-top: 0px;}
+}
