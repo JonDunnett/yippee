@@ -21,10 +21,10 @@
 	<script> 	
 	var ABSOLUTELY_NOTHING;
 	$.get("photos.php",ABSOLUTELY_NOTHING,process_data, "json");
-
+	var photos;
 
 	function process_data (response) {
-		var photos,html="";
+		var html="";
 		if(response.success) {
 			photos = response.photos;
 			for(var i=0;i<photos.length;i++){
