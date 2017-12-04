@@ -14,7 +14,7 @@ if ($usr == "joe" && $psw == "joe123") {
 } else {
 	header("Location: ../login.html");
 }
-header("Location: https://www.google.com/");
+
 
 
 ?>
