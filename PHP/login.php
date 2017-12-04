@@ -1,18 +1,19 @@
 <?php
 
-error_reporting( E_ALL );
+echo $_POST["usrname"];
+echo $_POST["psswd"];
 
 $usr = $_POST["usrname"];
 $psw = $_POST["psswd"];
 
 if ($usr == "joe" && $psw == "joe123") {
 	setcookie("username","joe",time()+60*60*24*30,"/","cs.wheatoncollege.edu");
-	header("FotoFan.html");
+	header("../FotoFan.html");
 } else if ($usr == "jane" && $psw == "jane999"){
 	setcookie("username", "jane",time()+60*60*24*30,"/","cs.wheatoncollege.edu");
-	header("FotoFan.html");
+	header("../FotoFan.html");
 } else {
-	header("login.html");
+	header("../login.html");
 }
 
 
