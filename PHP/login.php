@@ -1,5 +1,7 @@
 <?php
 
+header ("../login.html");
+
 echo $_POST["usrname"];
 echo $_POST["psswd"];
 
