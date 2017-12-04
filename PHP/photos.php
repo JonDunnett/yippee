@@ -17,11 +17,11 @@ class User {
 $request = new User();
 
 if ($_COOKIE["username"] == "joe") {
-	$db = fopen("joe.db", "r");
+	$db = fopen("../img/joe.db", "r");
 	$request->name = "joe";
 	$request->success = true;
 } else if ($_COOKIE["username"] == "jane") {
-	$db = fopen("jane.db", "r");
+	$db = fopen("../img/jane.db", "r");
 	$request->name = "joe";
 	$request->success = true;
 } else {
