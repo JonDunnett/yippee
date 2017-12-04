@@ -24,7 +24,17 @@
 
 
 	function process_data (response) {
-		
+		var photos,html="";
+		if(response.success) {
+			photos = response.photos;
+			for(var i=0;i<photos.length;i++){
+				html += '<li><img src="img/' + photos.path + '"></li>';	
+			}
+			$("#thumbs").html(html);
+		} else {
+			html = "<li>No photos</li>";
+			$("#thumbs").html(html);
+		}
 	}
 
 	function setCookie (name, value, numDays) {
