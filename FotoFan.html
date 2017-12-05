@@ -60,6 +60,7 @@
 	function process_data ( data ) {
 		if(data.success) {
 			var html = displayPhotosHTML(data.photos);
+			photos = data.photos;
 			$("#thumbs").html(html);
 		} else {
 			html = "<li>No photos</li>";
