@@ -53,3 +53,8 @@ li > img {
 	position: fixed;
 	left: 28px;
 }
+
+li > img {
+	width: 200px;
+	height: 100px;
+}
