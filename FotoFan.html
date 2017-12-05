@@ -25,22 +25,35 @@
 	var photos = [];
 	$("#thumbs").html("");
 
-	/*
-	function search(input) {
-		for (var i=0;i<photos.length();i++){
+	
 
+	function search(input) {
+		var results = [];
+		var location = "";
+		var year = 0;
+		var country = "";
+		for (var i=0;i<photos.length();i++){
+			location = photos[i].location;
+			year = photos[i].year;
+			country = photos[i].country;
+			if ( location.includes(input) || year.includes(input) || country.includes(input) ) {
+				results.push(photos[i]);
+			}
 		}
+		return results;
 	}
-	*/
+
+	function displayPhotosHTML ( photoList ) {
+		var html;
+		for(var i=0;i<photoList.length;i++){
+			html += '<li><img src="img/' + photoList[i].url + '"></li>';	
+			}
+		return html;
+	}
 
 	function process_data ( data ) {
-		var html="";
 		if(data.success) {
-			photos = data.photos;
-			for(var i=0;i<photos.length;i++){
-				alert("loaded " + photos[i].url + " successfully");
-				html += '<li><img src="img/' + photos[i].url + '"></li>';	
-			}
+			var html = displayPhotosHTML(data.photos);
 			$("#thumbs").html(html);
 		} else {
 			html = "<li>No photos</li>";
