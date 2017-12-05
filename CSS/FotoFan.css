@@ -48,3 +48,8 @@ li > img {
 	margin-right: 1%;
 	float: left;
 }
+
+#search {
+	position: fixed;
+	left: 28px;
+}
