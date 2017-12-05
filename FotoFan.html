@@ -38,6 +38,7 @@
 		if(data.success) {
 			photos = data.photos;
 			for(var i=0;i<photos.length;i++){
+				alert("loaded " + photos.url + " successfully");
 				html += '<li><img src="img/' + photos.url + '"></li>';	
 			}
 			$("#thumbs").html(html);
