@@ -38,7 +38,7 @@
 		if(data.success) {
 			photos = data.photos;
 			for(var i=0;i<photos.length;i++){
-				html += '<li><img src="img/' + photos.path + '"></li>';	
+				html += '<li><img src="img/' + photos.url + '"></li>';	
 			}
 			$("#thumbs").html(html);
 		} else {
