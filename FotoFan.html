@@ -12,7 +12,9 @@
 	<div id="rite" class="nav"><img src="img/menu.jpg"></div>
 	<input type="text" id="search">
 	<div id="image">
-		
+		<ul id="images">
+
+		</ul>
 	</div>
 	<div id="bott">
 		<ul id="thumbs"> 
@@ -61,7 +63,7 @@
 	function process_data ( data ) {
 		if(data.success) {
 			var html = displayPhotosHTML(data.photos);
-			$("#image").html(html);
+			$("#images").html(html);
 		} else {
 			html = "<li>No photos</li>";
 			$("#thumbs").html(html);
