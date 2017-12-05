@@ -33,11 +33,11 @@
 	}
 	*/
 
-	function process_data (response) {
+	function process_data ( data ) {
 		var html="";
 		alert("in process_data");
-		if(response.success) {
-			photos = response.photos;
+		if(data.success) {
+			photos = data.photos;
 			for(var i=0;i<photos.length;i++){
 				alert (i);
 				html += '<li><img src="img/' + photos.path + '"></li>';	
