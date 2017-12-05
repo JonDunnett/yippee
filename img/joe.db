@@ -1,54 +1,317 @@
-{ "path": "arundel.th2.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "bayerischeAlpen.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "bison1.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "bisonMud.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "bodiam2.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "bonnAltesRathaus.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "bonnUniversity.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "castleGeyser.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "dartmouth2.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "dartmouth4.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "dartmouth6.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "eastbourne.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "grandCanyon4.th2.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "grandCanyon6.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "grandPrismatic1.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "hever.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "hof2a.th2.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "HouseBonesRoof.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "jawsBridge.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "kinder.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "kingstonHill.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "leeds.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "lewes2.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "magicfountain.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "mtWashburn.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "mvcma.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "neuschwanstein.th3.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "NewHampshire1.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "NewHampshire2.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "painesCreek.th2a.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "seabase11.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "seabase4.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "seabase5.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "seabase8.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "seabase.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "sheep.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "southDowns.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "southover.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "stPancras.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "tintagel.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "umzug.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "vineyardHaven.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "westChop2.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "westChop.th2.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "yellowstoneLake.th.jpg", "loc": "", "year": 0, "desc": "", "count": "", "state": ""}
-{ "path": "baldyFromCopper.th.jpg", "loc": "Philmont Scout Ranch", "year": 2017, "desc": "Baldy Mountain from Copper Park", "count": "US", "state": "NM"}
-{ "path": "startOfTrail.th.jpg", "loc": "Philmont Scout Ranch", "year": 2017, "desc": "Hiking the canyon", "count": "US", "state": "NM"}
-{ "path": "upTheCanyon.th.jpg", "loc": "Philmont Scout Ranch", "year": 2017, "desc": "Looking up the canyon to the north", "count": "US", "state": "NM"}
-{ "path": "canyonLight.th.jpg", "loc": "Philmont Scout Ranch", "year": 2017, "desc": "Evening in the canyon", "count": "US", "state": "NM"}
-{ "path": "sparPole.th.jpg", "loc": "Philmont Scout Ranch", "year": 2017, "desc": "Climbing a spar pole", "count": "US", "state": "NM"}
-{ "path": "lowClouds.th.jpg", "loc": "Philmont Scout Ranch", "year": 2017, "desc": "Low clouds heading to Rich Cabin", "count": "US", "state": "NM"}
-{ "path": "baldyFromMeadow.th.jpg", "loc": "Philmont Scout Ranch", "year": 2017, "desc": "Baldy Mountain from meadow south of Miranda", "count": "US", "state": "NM"}
-{ "path": "trailSigns.th.jpg", "loc": "Philmont Scout Ranch", "year": 2017, "desc": "Where are we going?", "count": "US", "state": "NM"}
-{ "path": "toothOfTime.th.jpg", "loc": "Philmont Scout Ranch", "year": 0, "desc": "The Tooth of Time", "count": "US", "state": "NM"}
+{"photos": [{"url":"HouseBonesRoof.jpg",
+"country":"Spain",
+"state":"n/a",
+"location":"barcelona",
+"year":"2007",
+"description":"Roof of the House of Bones"},
+
+{"url":"magicfountain.jpg",
+"country":"spain",
+"state":"n/a",
+"location":"barcelona",
+"year":"2007",
+"description":"The magic fountain."},
+
+{"url":"painesCreek.jpg",
+"country":"USA",
+"state":"MA",
+"location":"Paines Creek, Brewster, Cape Cod",
+"year":"2016",
+"description":"Paines Creek, Brewster, Cape Cod, MA(2016)"},
+
+{"url":"arundel.jpg",
+"country":"England",
+"state":"n/a",
+"location":"West Sussex, UK",
+"year":"2005",
+"description":"Arundel Castle in West Sussex, UK, still inabited by the Duke of Norfolk(2005)"},
+
+
+{"url":"bodiam2.jpg",
+"country":"England",
+"state":"n/a",
+"location":"East Sussex, UK",
+"year":"2005",
+"description":"The moated Bodiam Castle in East Sussex, UK(2005)."},
+
+{"url":"dartmouth2.jpg",
+"country":"England",
+"state":"n/a",
+"location":"Dartmouth, Devon, UK",
+"year":"2008",
+"description":"View from Dartmouth,Devon,UK(2008)."},
+
+{"url":"dartmouth4.jpg",
+"country":"England",
+"state":"n/a",
+"location":"Dartmouth, Devon, UK",
+"year":"2008",
+"description":"Rainbow over Dartmouth, Devon, UK(2008)."},
+
+
+{"url":"dartmouth6.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"Dartmouth, Devon",
+"year":"2008",
+"description":"Typical street in Dartmouth, Devon, UK(2008)."},
+
+{"url":"eastbourne.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"Eastbourne",
+"year":"2005",
+"description":"Aview of Eastbourne, on the coast in East Sussex, UK(2005)."},
+
+{"url":"hever.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"Hever Castle , Kent, UK",
+"year":"2005",
+"description":"Hever Castle in Kent, UK, childhood home of Anne Boleyn (2005)."},
+
+
+{"url":"kingstonHill.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"Kingston",
+"year":"2005",
+"description":"A view of Kingston near Lewes, UK (2005)."},
+
+{"url":"leeds.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"Kent, UK",
+"year":"2005",
+"description":"Leeds Castle in Kent, UK, Henry VIII's favorite residence(2005)."},
+
+{"url":"lewes2.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"Lewes, UK",
+"year":"2005",
+"description":"Looking at the town from the top of Lewes Castle, Lewes, UK (2005)."},
+
+{"url":"sheep.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"n/a",
+"year":"2005",
+"description":"Got Sheep?"},
+
+{"url":"southDowns.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"Lewes, UK",
+"year":"2005",
+"description":"A view of the South Downs at sunset. The town of Lewes,UK, is in the distance(2005)."},
+
+{"url":"southover.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"Lewes",
+"year":"2005",
+"description":"Southover Grange Gardens, Lewes, UK (2005)."},
+
+{"url":"stPancras.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"Kingston",
+"year":"2005",
+"description":"St. Pancras church (13th c.) in Kingston near Lewes, UK (2005)."},
+
+{"url":"tintagel.jpg",
+"country":"UK",
+"state":"n/a",
+"location":"Tinagel, Cornwal, UK",
+"year":"2008",
+"description":"The site of the castle of the mythical King Arthur in Tintagel, Cornwall, UK (2008)."},
+
+{"url":"baldyFromCopper.jpg",
+"country":"USA",
+"state":"NM",
+"location":"Baldy Mountain, Copper Park",
+"year":"2017",
+"description":"Baldy Mountain from Copper Park, Philmont Scout Ranch, NM (2017)."},
+
+{"url":"startOfTrail.jpg",
+"country":"USA",
+"state":"NM",
+"location":"Philmont Scout Ranch",
+"year":"2017",
+"description":"Hiking the canyon, Philmont Scout Ranch, NM (2017)."},
+
+{"url":"upTheCanyon.jpg.jpg",
+"country":"USA",
+"state":"NM",
+"location":"Philmont Scout Ranch, NM",
+"year":"2017",
+"description":"Looking up the canyon to the north, Philmonst Scout Ranch, NM (2017)."},
+
+{"url":"canyonLight.jpg",
+"country":"USA",
+"state":"NM",
+"location":"Philmont Scout Ranch",
+"year":"2017",
+"description":"Evening in the canyon, Philmont Scout Ranch, NM (2017)."},
+
+{"url":"sparPole.jpg.jpg",
+"country":"USA",
+"state":"NM",
+"location":"Philmont Scout Ranch",
+"year":"2017",
+"description":"Climbing a spar pole, Philmont Scout Ranch, NM (2017)"},
+
+{"url":"lowClouds.jpg",
+"country":"USA",
+"state":"NM",
+"location":"Philmont Scout Ranch",
+"year":"2017",
+"description":"Low clouds heading to Rich Cabin, Philmont Scout Ranch, NM (2017)."},
+
+{"url":"baldyFromMeadow.jpg",
+"country":"USA",
+"state":"NM",
+"location":"Philmont Scout Ranch",
+"year":"2017",
+"description":"Baldy Mountain from meadow south of Miranda, Philmont Scout Ranch, NM (2017"},
+
+{"url":"trailSigns.jpg.jpg",
+"country":"USA",
+"state":"NM",
+"location":"Philmont Scout Ranch",
+"year":"2017",
+"description":"Where are we goig? Philmont Scout Ranch, NM (2017)."},
+
+{"url":"toothOfTime.jpg",
+"country":"USA",
+"state":"NM",
+"location":"Philmont Scout Ranch",
+"year":"2017",
+"description":"The Tooth of Time, Philmont Scout Ranch, NM (2017)."},
+
+{"url":"grandCanyon4.jpg",
+"country":"USA",
+"state":"WY",
+"location":"Yellowstone National Park",
+"year":"2016",
+"description":"Lower Falls in the Grand Canyon of the Yellowstone, Yellowstone National Park, WY (2016)"},
+
+{"url":"grandCanyon6.jpg",
+"country":"USA",
+"state":"WY",
+"location":"Yellowstone National Park",
+"year":"2016",
+"description":"Lower Falls, Yellowstone National Park, WY (2016)"},
+
+{"url":"grandPrismatic1.jpg",
+"country":"USA",
+"state":"WY",
+"location":"Yellowstone National Park",
+"year":"2016",
+"description":"Grand Prismatic Spring, Yellowstone National Park, WY (2016)."},
+
+{"url":"bison1.jpg",
+"country":"USA",
+"state":"WY",
+"location":"Yellowstone National Park",
+"year":"2016",
+"description":"Bison in the way, Yellowstone National Park, WY (2016)."},
+
+{"url":"mtWashburn.jpg",
+"country":"USA",
+"state":"WY",
+"location":"Yellowstone National Park",
+"year":"2016",
+"description":"Looking towards Lake Yellowstone from the top of Mt. Washburn (10,243 ft.). Yellowstone National Park, WY (2016)."},
+
+{"url":"bisonMud.jpg",
+"country":"USA",
+"state":"WY",
+"location":"Yellowstone National Park",
+"year":"2016",
+"description":"Mud pot, Yellowstone National Park, WY (2016)."},
+
+{"url":"castleGeyser.jpg",
+"country":"USA",
+"state":"WY",
+"location":"Yellowstone National Park",
+"year":"2016",
+"description":"Castle Geyser, Yellowstone National Park, WY (2016)."},
+
+{"url":"yellowstoneLake.jpg",
+"country":"USA",
+"state":"WY",
+"location":"Yellowstone National Park",
+"year":"2016",
+"description":"Yellowstone Lake, Yellowstone National Park, WY (2016)."},
+
+{"url":"westChop.jpg",
+"country":"USA",
+"state":"MA",
+"location":"Martha's Vineyard",
+"year":"2015",
+"description":"West Chop lighthouse, Martha's Vineyard, MA (2015)."},
+
+{"url":"jawsBridge.jpg",
+"country":"USA",
+"state":"MA",
+"location":"Martha's Vineyard",
+"year":"2015",
+"description":"Jumping off the \"Jaws\" Bridge, Martha's Vineyard, MA (2015)."},
+
+{"url":"vineyardHaven.jpg",
+"country":"USA",
+"state":"MA",
+"location":"Martha's Vineyard",
+"year":"2015",
+"description":"Vineyard Haven harbor, Martha's Vineyard, MA (2015)."},
+
+{"url":"westChop2.jpg",
+"country":"USA",
+"state":"MA",
+"location":"Martha's Vineyard",
+"year":"2015",
+"description":"West Chop, Martha's Vineyard, MA (2015)."},
+
+{"url":"mvcma.jpg.jpg",
+"country":"USA",
+"state":"MA",
+"location":"Martha's Vineyard",
+"year":"2015",
+"description":"MVCMA cottages, Oak Bluffs, Martha's Vineyard, MA (2015)."},
+
+{"url":"seabase.jpg",
+"country":"USA",
+"state":"FL",
+"location":"Florida Keys",
+"year":"2015",
+"description":"Boy Scout Sea Base, Islamorada, Florida Keys (2015)."},
+
+{"url":"seabase4.jpg",
+"country":"USA",
+"state":"FL",
+"location":"Florida Keys",
+"year":"2015",
+"description":"Sail boats, Islamorada, Florida Keys (2015)."},
+
+{"url":"seabase5.jpg",
+"country":"USA",
+"state":"FL",
+"location":"Florida Keys",
+"year":"2015",
+"description":"At the dock at Sea Base, Islamorada, Florida Keys (2015)."},
+
+{"url":"seabase8.jpg",
+"country":"USA",
+"state":"FL",
+"location":"Florida Keys",
+"year":"2015",
+"description":"Under sail, Florida Keys (2015)."},
+{"url":"seabase11.jpg",
+"country":"USA",
+"state":"FL",
+"location":"Florida Keys",
+"year":" 2015",
+"description":"Evening sets in, somewhere in the Gulf of Mexico off the Florida Keys (2015)."}
+] }

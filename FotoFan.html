@@ -21,13 +21,21 @@
 	<script> 	
 	var ABSOLUTELY_NOTHING;
 	$.get("photos.php",ABSOLUTELY_NOTHING,process_data, "json");
-	var photos;
+	var photos = [];
+	$("#thumbs").html("");
+
+	function search(input) {
+		for (var i=0;i<photos.length();i++){
+			
+		}
+	}
 
 	function process_data (response) {
 		var html="";
 		if(response.success) {
 			photos = response.photos;
 			for(var i=0;i<photos.length;i++){
+				alert (i);
 				html += '<li><img src="img/' + photos.path + '"></li>';	
 			}
 			$("#thumbs").html(html);
