@@ -15,7 +15,7 @@
 	</div>
 	<div id="bott">
 		<ul id="thumbs"> 
-
+		<li> nothing in particular </li>
 		</ul>
 	</div>
 
@@ -36,11 +36,9 @@
 
 	function process_data ( data ) {
 		var html="";
-		alert("in process_data");
 		if(data.success) {
 			photos = data.photos;
 			for(var i=0;i<photos.length;i++){
-				alert (i);
 				html += '<li><img src="img/' + photos.path + '"></li>';	
 			}
 			$("#thumbs").html(html);
