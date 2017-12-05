@@ -10,6 +10,7 @@
 <body>
 	<div id="left" class="nav"><img src="img/menu.jpg"></div>
 	<div id="rite" class="nav"><img src="img/menu.jpg"></div>
+	<input type="text" id="search">
 	<div id="image">
 		
 	</div>
@@ -24,8 +25,10 @@
 	$.get("PHP/photos.php",ABSOLUTELY_NOTHING,process_data, "json");
 	var photos = [];
 	$("#thumbs").html("");
-
-	
+	$("#search").keypress(function (event) {
+            if (event.which == 13) {
+                search($("#search").val());
+            } })
 
 	function search(input) {
 		var results = [];
