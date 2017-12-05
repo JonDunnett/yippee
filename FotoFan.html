@@ -27,8 +27,8 @@
 	$("#thumbs").html("");
 	$("#search").keypress(function (event) {
             if (event.which == 13) {
-                search($("#search").val());
-            } })
+                $("#image").html(displayPhotosHTML(search($("#search").val())));
+            } });
 
 	function search(input) {
 		var results = [];
