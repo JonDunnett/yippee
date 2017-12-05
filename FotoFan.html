@@ -26,6 +26,7 @@
 	var photos = [];
 	$("#thumbs").html("");
 	$("#search").keypress(function (event) {
+            alert("at least this works");
             if (event.which == 13) {
                 $("#image").html(displayPhotosHTML(search($("#search").val())));
             } });
