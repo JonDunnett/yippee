@@ -32,7 +32,6 @@
                 $("#image").html(html);
             } });
 
-	alert(photos.length);
 
 	function search(input) {
 		var results = [];
@@ -62,8 +61,7 @@
 	function process_data ( data ) {
 		if(data.success) {
 			var html = displayPhotosHTML(data.photos);
-			photos = data.photos;
-			$("#thumbs").html(html);
+			$("#image").html(html);
 		} else {
 			html = "<li>No photos</li>";
 			$("#thumbs").html(html);
