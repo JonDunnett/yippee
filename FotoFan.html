@@ -34,6 +34,7 @@
 
 	function process_data (response) {
 		var html="";
+		alert("in process_data");
 		if(response.success) {
 			photos = response.photos;
 			for(var i=0;i<photos.length;i++){
